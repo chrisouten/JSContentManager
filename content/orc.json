@@ -1,0 +1,7 @@
+{
+    "speed" : 20,
+    "hp" : 30,
+    "armor" : {
+                "AssetType": "leather"
+              }
+}
